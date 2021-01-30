@@ -1,0 +1,1 @@
+# Simple docker stack with Symfony and API Platform
